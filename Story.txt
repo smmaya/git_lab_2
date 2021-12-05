@@ -1,7 +1,7 @@
-Oto nasza wspólna historia.
-Sławek dodał linijkę.
-A to jest jej druga linijka.
-Sławek dodaje drugą linijkę.
-Marek dodaje 3 linijkę.
+Oto nasza wspólna historia
+A to jest jej druga linijka
+Marek dodaje 3 linijkę
+Sławek dodał linijkę
+Sławek dodaje drugą linijkę
 Cudowna historia. Pozdrawiam, Michał.
 Koniec historii Michała, Marka i Sławka.
