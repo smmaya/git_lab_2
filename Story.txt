@@ -1,6 +1,3 @@
 Oto nasza wspólna historia
-<<<<<<< HEAD
 A to jest jej druga linijka
-=======
 Sławek dodał linijkę
->>>>>>> c1779eb0ac1af589fa8148503656b580aa84493d
