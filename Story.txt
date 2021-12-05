@@ -1,5 +1,5 @@
 Oto nasza wspólna historia
+Sławek dodał linijkę
+Sławek dodaje drugą linijkę
 A to jest jej druga linijka
 Marek dodaje 3 linijkę
-Sławek dodał linijkę
-
